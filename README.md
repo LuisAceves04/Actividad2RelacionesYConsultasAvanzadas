@@ -1,4 +1,4 @@
-#elaborado por Aceves Sanchez Luis Rafael
+# elaborado por Aceves Sanchez Luis Rafael
 # Actividad 2: Gestión de Notas con Relaciones Avanzadas
 
 ## Descripción General
