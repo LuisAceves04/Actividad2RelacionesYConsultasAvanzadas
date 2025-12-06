@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Actividad2RelacionesYConsultasAvanzadas</string>
+    <string name="et_buscar_nota">Buscar nota...</string>
+    <string name="btn_agregar_nota">Agregar Nota</string>
+    <string name="tv_nombre_categoria">Nombre Categoría</string>
+    <string name="tv_notas">• Nota 1\n• Nota 2</string>
+    <string name="tv_nueva_categoria">Nueva Categoría</string>
+    <string name="et_nombre_categoria">Nombre categoría</string>
+    <string name="btn_crear">Crear</string>
+    <string name="tv_nueva_nota">Nueva Nota</string>
+    <string name="tv_select_categoria">Selecciona Categoría:</string>
+    <string name="et_titulo_nota">Título de la nota</string>
+    <string name="et_descripcion_nota">Descripcion de la nota</string>
+    <string name="btn_guardar_nota">Guardar Nota</string>
+</resources>
